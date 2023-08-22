@@ -9,4 +9,7 @@ the different task which encoder can do are:
 
 - Representation Learning: we used bert to help us to represent the text in such a way as to capture the relationships between words, phrases and documents. to build it we used technics like Deep learning, NLP to extract these information. view more in [representation learning](/representation_learning/test.py)
 
-- caracteristiques extraction 
+- caracteristiques extraction: bert can extract specifiques feature of the text, like entity, sentiments, topics and others infos. view more on [extract caracteristique](/features_extraction/test.py)
+
+- text génération: bert are used to generate text from a vector representation.
+view more on [text generation](/text_generation/test.py)
